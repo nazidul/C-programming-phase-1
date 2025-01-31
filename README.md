@@ -12,5 +12,4 @@ Comes with a standard library that provides numerous built-in functions for vari
 
 > C programming is foundational for many other programming languages and is highly regarded for its performance and control over system resources. If you have any specific questions or need further details, [feel free to ask!](nazidul96@gmail.com)
 
-practice as a beginner.
-*
+## Practice For a beginner to Advance.

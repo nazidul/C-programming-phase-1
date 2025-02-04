@@ -14,7 +14,7 @@ Comes with a standard library that provides numerous built-in functions for vari
 
 ## Practice For a beginner.
 
-*Print right triangles star pattern series.
+*Print right triangles star pattern series.<br>
 *Print mirrord right triangle star pattern series.
 *Reverse right trianlge star pattern.
 *Print reverse mirrored right triangle star pattern.

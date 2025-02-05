@@ -48,3 +48,37 @@ Comes with a standard library that provides numerous built-in functions for vari
 *Enter 5 array numbers and add them and Print the sum.<br>
 *Before and after the swap function.<br>
 *Print pointer value with address in unorder list.<br>
+*Print the sum of two numbers.
+*Print the Addition,Subtraction,Multiplication and Dividation of two numbers.
+*Enter the lenght,bredth of rectangle and find the perimeter.
+*Enter the length,breadth and find find the area of a rectangle.
+*Enter the radius of circle and find its diameter, Circumstance, Area.
+*Enter length in centimeter and calculate the value in meter, kilometer.
+*Enter the temperature in Celsius and find the value in farenheit.
+*Enter the temperature in Forenheight and find the value in Celsius.
+*Take the value of days and calculate it in years, months,days
+*Print power of x.
+*Print sqare root of value.
+*Print angle of two side and find the opposite angle.
+*Enter the base and height. Calculate the area of triangle.
+*Enter 5 numbers of subjects and find the total, Average and Percentage.
+*Enter the amount, time, interest rate to find simple interest.
+*Enter the amount, time, interest rate and find the compound interest.
+Check whether number is even or odd.
+*Check Prime or Armstrong number using user defined Function.
+*Check whether number is Perfect or not.
+*Find reverse of any number using recursion.
+*Find reverse of a negative number using recursion.
+*Print array elements using recursion.
+*Print sum of array elements using reccursion.
+*Print sum of even numbers between 1 to n.
+*Print sum of odd numbers from 1 to n.
+*Find sum of natural numbers from 1 to n.
+*Find first and last digit of a given number using loop.
+*Swap first and last digit of a number.
+*Print reverse number.
+*Print ASCII values.
+*Print factors of value.
+*Check vowel or consonant using switch case.
+*Find maximum of 2 numbers using switch case statement.
+*
